@@ -5,6 +5,9 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
+}
+
+body {
   background-image: url("./images/white-wood.jpg");
 }
 
